@@ -13,7 +13,7 @@ SMWebPlanEvents is a web application built with Python and Django and JavaScript
 
  ## Demo Screenshots
 <img src="./images/1.png" width="1500">
-<img src="./images/2.png" width="1000">
+<img src="./images/2.png" width="1500">
 
 ## Installation
 1. Clone the repository:    git clone https://github.com/SaifeddineAlmissaoui/SMWebPlanEvents.git
