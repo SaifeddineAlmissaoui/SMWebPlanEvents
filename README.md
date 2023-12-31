@@ -2,7 +2,7 @@
 
 
 ## Overview
-SMWebPlanEvents is a web application built with Python and Django. It allows users to manage and organize events, including creating new events, registering attendees, and providing event details.
+SMWebPlanEvents is a web application built with Python and Django and JavaScript. It allows users to manage and organize events, including creating new events, registering attendees, and providing event details.
 
 ## Features
 - Create new events with details such as title, date, time, and location.
