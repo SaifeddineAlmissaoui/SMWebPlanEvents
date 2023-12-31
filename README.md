@@ -11,10 +11,8 @@ The Event Management System is a web application built with Python and Django. I
 
 
   ## Demo Screenshots
-
-![ 1](C:/Users/almis/OneDrive/Desktop/1.png)
-![ 2](C:/Users/almis/OneDrive/Desktop/2.png)
-
+![Image 1](./1.png)
+![Image 2](./2.png)
 
 ## Installation
 1. Clone the repository:    git clone https://github.com/SaifeddineAlmissaoui/SMWebPlanEvents.git
